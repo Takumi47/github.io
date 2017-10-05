@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NCGTM97MB7.tw.com.AX.www.MyBrowser",
+                "paths": [ "/*" ]
+            }
+        ]
+    }
+}
