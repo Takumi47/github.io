@@ -1,11 +1,13 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "NCGTM97MB7.tw.com.AX.www.MyBrowser",
-                "paths": [ "/*" ]
-            }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "NCGTM97MB7.com.xander.try.UniversalLinkTry",
+        "paths": [
+          "/test/*"
         ]
-    }
+      }
+    ]
+  }
 }
